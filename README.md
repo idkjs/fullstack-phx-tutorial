@@ -1,4 +1,6 @@
 # [Tutorial-getting-started-with-graphql-and-absinthe-in-phoenix](https://fullstackphoenix.com/tutorials/getting-started-with-graphql-and-absinthe-in-phoenix)
+https://github.com/fullstack-phoenix?type=source
+## demo [repo](https://github.com/andreaseriksson/tutorials)
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
